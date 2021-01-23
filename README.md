@@ -24,8 +24,8 @@ Here are some example unique identifiers for some of the leading APIs.
 ## Relevant Example
 This is an example of a naming system for IT systems and software.
 
-- **Common Platform Enumeration (CPE) Dictionary** - https://nvd.nist.gov/products/cpe
-- **Common Platform Enumeration (CPE) Documentation** - https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7695.pdf
+- (**Common Platform Enumeration (CPE) Dictionary**](https://nvd.nist.gov/products/cpe)
+- (**Common Platform Enumeration (CPE) Documentation**](https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7695.pdf)
 
 This provides a model that we can use to drive the formalization of this.
 
