@@ -19,7 +19,8 @@ Here are some example unique identifiers for some of the leading APIs.
 - stripe:public:http1:payments:v1
 - spotify:public:http1:payments:v1
 - youtube:public:http1:videos:v3
-- youtube:public:http1:videos:v3
+- twitter:public:http1:users:v2
+- reddit:public:http1:subreddits:v1
 
 ## Relevant Example
 This is an example of a naming system for IT systems and software.
