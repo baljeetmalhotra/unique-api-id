@@ -4,22 +4,22 @@ This is a project to develop a unique identifier for each public API.
 # Draft Proposal
 Here is the format being proposed as a starting point for each identifier.
 
-- **entity** - The root domain for organization behind API.
-- **protocol** - The protocol used as a transport.
-- **domain** - The root domain for organization behind API.
-- **version** - The version of the API being identified.
-- **catgory** - A general or specific resource.
+- **entity** - The root domain for organization behind API (e.g., twitter).
+- **protocol** - The protocol used as a transport (e.g., http).
+- **domain** - The root domain for organization behind API (e.g., api.twitter.com).
+- **version** - The version of the API being identified (e.g., 1.1).
+- **catgory** - A general or specific resource (e.g., social_media).
 
 These would represent each part of the id, delimited using a colon.
 
 ## Example ids
 Here are some example unique identifiers for some of the leading APIs.
 
+- twitter:public:http1:api.twitter.com:1.1:social_media
 - twilio:public:http1:sms:2010-04-01
 - stripe:public:http1:payments:v1
 - spotify:public:http1:payments:v1
 - youtube:public:http1:videos:v3
-- twitter:public:http1:users:v2
 - reddit:public:http1:subreddits:v1
 
 ## Relevant Example
