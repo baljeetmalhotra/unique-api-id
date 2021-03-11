@@ -4,11 +4,11 @@ This is a project to develop a unique identifier for each public API.
 # Draft Proposal
 Here is the format being proposed as a starting point for each identifier.
 
-- **domain** - The root domain for organization behind API.
-- **org** - The organization or team the API is from.
+- **entity** - The root domain for organization behind API.
 - **protocol** - The protocol used as a transport.
-- **resource** - A general or specific resource.
+- **domain** - The root domain for organization behind API.
 - **version** - The version of the API being identified.
+- **catgory** - A general or specific resource.
 
 These would represent each part of the id, delimited using a colon.
 
